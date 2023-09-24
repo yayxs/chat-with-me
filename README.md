@@ -9,6 +9,7 @@
     <div>
       其中【PicGo】是属于主要tag分类；图床、图片、代理 是属于多个关键词；PicGo上传图片开启代理， pac 和 全局 模式上传失败，但是直连模式可以 是属于详细的问题描述
     </div>
+    <a href="https://github.com/yayxs/issues/issues/1" target="_blank">点击这个案例，在新标签页打开</a>
   </div>
   
   
